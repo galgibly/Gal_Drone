@@ -1,5 +1,12 @@
 # Gal_Drone
-22.07 Second Week Update
-We have problems with the last step (step 4) of the installation in the build step.
-Terminal shows fatal errors. 
-we are trying to solve the problem.
+
+**29.07 - Third Week Update**
+--------------------------------------
+
+We finished the installation of ORB_SLAM2.
+
+We run an offline video by the software and got information of it.
+
+We are trying now to run the software on a real time video.
+
+We study about the interface between ORB_SLAM2 and phone/drone.
