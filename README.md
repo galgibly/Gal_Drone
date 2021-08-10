@@ -1,12 +1,7 @@
 # Gal_Drone
 
-**29.07 - Third Week Update**
+**12.08 - fifth Week Update**
 --------------------------------------
-
-We finished the installation of ORB_SLAM2.
-
-We run an offline video by the software and got information of it.
-
-We are trying now to run the software on a real time video.
-
-We study about the interface between ORB_SLAM2 and phone/drone.
+ctello is connected to ORB_SLAM2. 
+the drone is mapping the room with ORB_SLAM2.
+it rotates 360 degrees and finalizes with a map.
